@@ -70,6 +70,7 @@ public class Action extends BaseClass implements ActionInterface {
 		return flag;
 	}
 
+	 //remove space pls
 	@Override
 	public boolean isDisplayed(WebDriver driver, WebElement ele) {
 		boolean flag = false;
